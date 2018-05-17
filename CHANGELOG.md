@@ -145,7 +145,7 @@ Yay for [SemVer](http://semver.org/).
 
 ## 3.0.x
 ### 3.0.2
-- [DIFF](https://github.com/panva/node-oidc-provider/compare/v3.0.1...v3.0.2)
+- 2018-05-15 [DIFF](https://github.com/panva/node-oidc-provider/compare/v3.0.1...v3.0.2)
 - base64url dependency replaced
 
 ### 3.0.1
